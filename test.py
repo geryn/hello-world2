@@ -1,2 +1,2 @@
 #test code in Python
-print("tekst testowy")
+print("tekst testowy hahaha")
